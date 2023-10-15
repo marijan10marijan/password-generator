@@ -10,7 +10,7 @@ This is a simple React application for generating passwords. You can choose whet
 
 ## Usage
 
-1. Project visible on https://marijan10marijan/password/generator
+1. Project visible on https://marijan10marijan.github.io/password-generator/
 2. You'll see the Password Generator interface.
 3. Use the toggle button to select whether you want to include numbers and special characters in your password or use only alphabetic characters.
 4. Click the "Generate Password" button to generate a random password according to your choice.
